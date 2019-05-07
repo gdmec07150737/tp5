@@ -19,3 +19,4 @@ define('APP_PATH', __DIR__ . '/../application/');
 //var_dump(APP_PATH);exit();修改3
 //准备添加
 require __DIR__ . '/../thinkphp/start.php';
+//test
