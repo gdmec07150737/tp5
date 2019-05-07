@@ -13,6 +13,6 @@
 
 // 定义应用目录
 define('APP_PATH', __DIR__ . '/../application/');
-// 加载框架引导文件
-//var_dump(APP_PATH);exit();修改2
+// 加载框架引导文件，修改5
+//var_dump(APP_PATH);exit();修改4
 require __DIR__ . '/../thinkphp/start.php';
